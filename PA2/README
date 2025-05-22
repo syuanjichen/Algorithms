@@ -1,0 +1,7 @@
+2024 Fall Algorithms Programming Assignment #2
+By Syuan-Ji Chen (B11901110)
+
+Make sure you are at the root directory of PA2, you should see "~/PA2" on the terminal.
+To compile the program, simply type "make" to execute the makefile script.
+Then, type "./bin/mps inputs/xx.in outputs/xx.out" to execute the program.
+To check the result, you can navigate to "~/PA2/outputs" and open each output file.

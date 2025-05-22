@@ -1,0 +1,7 @@
+EE4033 Algorithms
+Programming Assignment #3
+Author: B11901110 Syuan-Ji Chen
+
+To compile this program, please go to the root directory (i.e., b11901110_pa3) and simply type "make" to run the makefile.
+After that, type "./bin/cb inputs/INPUTFILE.in outputs/OUTPUTFILE.out" to execute the program.
+
